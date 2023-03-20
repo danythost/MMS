@@ -1,12 +1,8 @@
-/
-*
-*
-*
-# Membership management System (MMS):
-*
-*
-*
-*
+#
+#
+#
+  *Membership management System (MMS):*
+
 
 
 
